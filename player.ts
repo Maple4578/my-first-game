@@ -19,3 +19,6 @@ forever(function()
         }
     }  
 })
+
+// player camera
+scene.cameraFollowSprite(player_image)
